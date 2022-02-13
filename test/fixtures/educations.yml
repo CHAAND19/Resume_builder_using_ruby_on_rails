@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  degree: MyString
+  school: MyString
+  description: MyText
+  start: 2022-02-13
+  end: 2022-02-13
+  profile: one
+
+two:
+  degree: MyString
+  school: MyString
+  description: MyText
+  start: 2022-02-13
+  end: 2022-02-13
+  profile: two
